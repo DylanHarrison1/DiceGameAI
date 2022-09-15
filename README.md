@@ -1,2 +1,2 @@
 # DiceGameAI
-A simple dice game and an AI which plays is
+A simple dice game and an AI which plays it
